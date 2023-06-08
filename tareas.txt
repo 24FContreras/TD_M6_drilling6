@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6cf21f922",
+    "titulo": "Estudiar JavaScript",
+    "contenido": "Estudiar JS del lado del servidor, utilizando node y yargs"
+  },
+  {
+    "id": "f2a5393f",
+    "titulo": "Nombre de la tarea",
+    "contenido": "El contenido"
+  }
+]
